@@ -1,0 +1,85 @@
+[
+    {
+        "precio": 50,
+        "id": 1,
+        "title": "3Musketeers",
+        "thumbnailUrl": "https://statist-threaders.000webhostapp.com/img/3Musketeers.jpg"
+    },
+
+    {
+        "precio": 50,
+        "id": 2,
+        "title": "Hersheys Almond",
+        "thumbnailUrl": "https://statist-threaders.000webhostapp.com/img/HersheysAlmond.png"
+    },
+
+    {
+        "precio": 40,
+        "id": 3,
+        "title": "Hersheys Milk",
+        "thumbnailUrl": "https://statist-threaders.000webhostapp.com/img/HersheysMilk.png"
+    },
+
+    {
+        "precio": 45,
+        "id": 4,
+        "title": "Hersheys Dark",
+        "thumbnailUrl": "https://statist-threaders.000webhostapp.com/img/HersheysSDark.png"
+    },
+
+    {
+        "precio": 20,
+        "id": 5,
+        "title": "Kranky",
+        "thumbnailUrl": "https://statist-threaders.000webhostapp.com/img/kranky.jpg"
+    },
+
+    {
+        "precio": 40,
+        "id": 6,
+        "title": "Milky Way",
+        "thumbnailUrl": "https://statist-threaders.000webhostapp.com/img/MilkyWay.jpg"
+    },
+
+    {
+        "precio": 30,
+        "id": 7,
+        "title": "Paleta Payaso",
+        "thumbnailUrl": "https://statist-threaders.000webhostapp.com/img/PaletaPayaso.jpg"
+    },
+
+    {
+        "precio": 8,
+        "id": 8,
+        "title": "Paleta Sandia",
+        "thumbnailUrl": "https://statist-threaders.000webhostapp.com/img/PaletaSandia.png"
+    },
+
+    {
+        "precio": 30,
+        "id": 9,
+        "title": "Panditas",
+        "thumbnailUrl": "https://statist-threaders.000webhostapp.com/img/Panditas.jpg"
+    },
+
+    {
+        "precio": 40,
+        "id": 10,
+        "title": "Panditas Choco",
+        "thumbnailUrl": "https://statist-threaders.000webhostapp.com/img/PanditasChocos.jpg"
+    },
+
+    {
+        "precio": 30,
+        "id": 11,
+        "title": "Pepsi",
+        "thumbnailUrl": "https://statist-threaders.000webhostapp.com/img/Pepsi.png"
+    },
+
+    {
+        "precio": 30,
+        "id": 12,
+        "title": "Snickers",
+        "thumbnailUrl": "https://statist-threaders.000webhostapp.com/img/Snickers.png"
+    }
+]
